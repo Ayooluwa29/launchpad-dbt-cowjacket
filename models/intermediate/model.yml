@@ -2,7 +2,7 @@ version: 2
 
 models:
   - name: customer_loyalty
-    description: "customer loyalty table"
+    description: "customer loyalty table in intermediate"
     columns:
       - name: total_points_earned
       - name: last_activity_date
