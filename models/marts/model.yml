@@ -2,7 +2,7 @@ version: 2
 
 models:
   - name: "fact_customer_orders"
-    description: "customer order table"
+    description: "customer order table in marts"
     columns:
       - name: "customer_id"
       - name: "first_order_date"
