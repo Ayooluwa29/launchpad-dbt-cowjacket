@@ -1,0 +1,11 @@
+version: 2
+
+models:
+  - name: "fact_customer_orders"
+    description: "customer order table"
+    columns:
+      - name: "customer_id"
+      - name: "first_order_date"
+      - name: "last_order_date"
+      - name: "total_orders"
+      - name: "lifetime_value"

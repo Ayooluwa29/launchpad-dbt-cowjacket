@@ -1,0 +1,12 @@
+version: 2
+
+sources:
+  - name: bronze
+    database: RAW
+    schema: BRONZE
+    tables:
+      - name: customers
+      - name: orders
+      - name: order_items
+      - name: products
+      - name: loyalty_points
